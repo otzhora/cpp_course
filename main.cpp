@@ -1,6 +1,11 @@
+#include <algorithm>
 #include <iostream>
+#include <string>
+#include <vector>
+#include <cmath>
+
+using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
